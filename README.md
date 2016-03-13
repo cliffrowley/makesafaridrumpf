@@ -4,7 +4,7 @@ A Safari version of the [chrome extension](https://chrome.google.com/webstore/de
 
 ## Installing
 
-There are two ways to install this extension.  Either use the latest signed release [here], or build and sign it yourself using the Safari extension builder if you prefer.
+There are two ways to install this extension.  Either use the latest signed release [here](https://dl.dropboxusercontent.com/u/303485845/Drumpf/Safari/MakeSafariDrumpf.safariextz), or build and sign it yourself using the Safari extension builder if you prefer.
 
 ## Contributing
 
