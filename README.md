@@ -1,3 +1,7 @@
+# IMPORTANT NOTE
+
+This project is now retired and unmaintained. I consider this code public domain, so please feel free to do whatever you like with it.
+
 # Make Safari Drumpf
 
 A Safari version of the [chrome extension](https://chrome.google.com/webstore/detail/drumpfinator/hcimhbfpiofdihhdnofbdlhjcmjopilp?hl=en) for the awesome [Make Donald Drumpf Again](http://www.donaldjdrumpf.com) campaign.
